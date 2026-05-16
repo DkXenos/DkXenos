@@ -7,7 +7,7 @@ I'm a software developer with a deep passion for building seamless, native Swift
 👯 **I’m looking for:** Collaborations on Open Source web apps.
 💬 **Ask me about:** SwiftUI, Kotlin, Next.js!
 
-# 🍎 Tech Stack:
+# Tech Stack:
 ### Native Apple Development
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-0052CC?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 
@@ -17,27 +17,3 @@ I'm a software developer with a deep passion for building seamless, native Swift
 
 ### Tools & Hardware
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-
-# 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DkXenos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DkXenos&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkXenos&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔝 Spotlight Repository
-<p align="left">
-  <!-- RECOMMENDATION: Pin your Apple Developer Academy proposal repo or MbengkelIn here! -->
-  <a href="https://github.com/DkXenos/YOUR_APPLE_PROJECT_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DkXenos&repo=YOUR_APPLE_PROJECT_REPO&theme=dark" alt="Top Contributed Repo" />
-  </a>
-</p>
-
----
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DkXenos&icon=0&color=5" alt="Profile Views" />
-  </a>
-</p>
